@@ -1,0 +1,15 @@
+# Virtual environment
+tf_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
